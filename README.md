@@ -1,1 +1,4 @@
-# STD912S-Assignment-3
+
+- Course Title: **Software Tools for Data Science**
+- Course Code: **STD912S**
+- Assessment: 3
